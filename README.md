@@ -6,8 +6,8 @@ The data used was the "Human Activity Recognition Using Smartphones Dataset". Th
 ##Code Book
 The following variables are in the output dataset "SamsungDataSummary.txt"
 
-detailedactivity          Name of activity performed by subject
-subject                   Subject number, 1 of the 30 volunteers
+|detailedactivity          |Name of activity performed by subject |
+|subject                   |Subject number, 1 of the 30 volunteers|
 
 The following are signals where -'XYZ is used to denote 3 -axial signals in the X,Y and Z directions. With mean() and std() giving the mean and standard deviation of these signals respectively.
 
@@ -18,9 +18,9 @@ Subsequently, the body linear acceleration and angular velocity were derived in 
 
 Finally a Fast Fourier Transform (FFT) was applied to some of these signals producing fBodyAcc-XYZ, fBodyAccJerk-XYZ, fBodyGyro-XYZ, fBodyAccJerkMag, fBodyGyroMag, fBodyGyroJerkMag. (Note the 'f' to indicate frequency domain signals). 
 
-tBodyAcc-mean()-X
-tBodyAcc-mean()-Y
-tBodyAcc-mean()-Z
+|tBodyAcc-mean()-X|
+|tBodyAcc-mean()-Y|
+|tBodyAcc-mean()-Z|
 tBodyAcc-std()-X
 tBodyAcc-std()-Y
 tBodyAcc-std()-Z
