@@ -2,7 +2,6 @@
 
 The data used was the "Human Activity Recognition Using Smartphones Dataset". The following are descriptions of the variable/features from the description of this dataset.
 
-
 ##Code Book
 The following variables are in the output dataset "SamsungDataSummary.txt"
 
@@ -88,8 +87,8 @@ Additional vectors obtained by averaging the signals in a signal window sample. 
 *fBodyBodyGyroJerkMag-mean()
 *fBodyBodyGyroJerkMag-std()
 
-##How to script
-The following guide is an additional reference to the steps indicated in the comments of the script
+##How to use the script
+The following guide is an additional reference to the steps indicated in the comments of the script "run_analysis.R"
 1. Get required packages (dplyr)
 2. create a folder in the working directory and download and unzip the data in that location
 3. Load in data from the testing and training folders
