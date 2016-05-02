@@ -5,7 +5,7 @@ The data used was the "Human Activity Recognition Using Smartphones Dataset". Th
 
 ##Code Book
 The following variables are in the output dataset "SamsungDataSummary.txt"
-
+|--------------------------|--------------------------------------|
 |detailedactivity          |Name of activity performed by subject |
 |subject                   |Subject number, 1 of the 30 volunteers|
 
